@@ -10,6 +10,7 @@ This project requires Python 2.7 and the following python libraries:
 * Pandas
 * matplotlib
 * scikit-learn
+
 You will need to have a software that runs and executes iPython Notebook.
 
 # Code
