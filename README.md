@@ -14,4 +14,4 @@ This project requires Python 2.7 and the following python libraries:
 You will need to have a software that runs and executes iPython Notebook.
 
 # Code
-This project template has been provided by Udacity. Some code has already been implemented, and I implemented additional functionality to successfully complete the project. The dataset is in the file named dataset.csv and the file named visuals.py is only for visualizing some graphs.
+This project template has been provided by Udacity. Some code has already been implemented, and I implemented additional functionality to successfully complete the project. The dataset is in the file named census.csv and the file named visuals.py is only for visualizing some graphs.
